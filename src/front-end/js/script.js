@@ -85,7 +85,7 @@ document.addEventListener('DOMContentLoaded', function () {
         console.log("Botão acionado !!!");
         submitButton.textContent = 'Enviado';
         submitButton.disabled = true;
-        window.location.href = "obrigado.html";
+        window.location.href = "thanks.html";
     });
 
 
